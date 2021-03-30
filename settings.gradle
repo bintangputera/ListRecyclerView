@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Minggu4View"
